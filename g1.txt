@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git starts
+=======
+first file is remote repositry
+>>>>>>> 0412d99f1c37d76cd79f5865482de8d980145783
